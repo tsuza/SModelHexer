@@ -27,7 +27,7 @@
 </div>
 
 ## N.B.
-This is still in alpha phase. It's riddled with unwraps and "this will do for now" practices. Open an issue to report bugs. There will be more updates. 
+This is still in WIP. It's riddled with unwraps and "this will do for now" practices. Open an issue to report bugs. There will be more updates. 
 
 ##  How to build the app
 1. Clone the repository.
@@ -37,3 +37,6 @@ This is still in alpha phase. It's riddled with unwraps and "this will do for no
 ## TO-DOs
 - Recreate the entire mdl into structs so it's easier to modify things without having to mess with offsets and such.
 - Allow users to change every single thing about the mdl.
+- Implement vpk unpacking.
+- Switch away from `Egui::Window`s and make some sort of side menu where you can select the opened files.
+- Fix linux builds.
