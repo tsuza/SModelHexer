@@ -1,0 +1,1 @@
+F:\Documents\Coding\Rust\sModelhexer\target\release\SModelHexer.exe: F:\Documents\Coding\Rust\sModelhexer\src\main.rs F:\Documents\Coding\Rust\sModelhexer\src\structs\mod.rs F:\Documents\Coding\Rust\sModelhexer\src\structs\model.rs

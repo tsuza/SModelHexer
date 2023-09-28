@@ -1,0 +1,1 @@
+F:\Documents\Coding\Rust\SModelHexer\target\debug\libSModelHexer.rlib: F:\Documents\Coding\Rust\SModelHexer\src\app.rs F:\Documents\Coding\Rust\SModelHexer\src\lib.rs F:\Documents\Coding\Rust\SModelHexer\src\modelwindow.rs F:\Documents\Coding\Rust\SModelHexer\src\structs\mod.rs F:\Documents\Coding\Rust\SModelHexer\src\structs\model.rs
